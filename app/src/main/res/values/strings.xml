@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">geofencing</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- Google Maps API nøkkel-->
+    <string name="MAPS_API_KEY">AIzaSyC_5eSlZMzPnOvYLELA0o_EQfhBfC14NRc</string>
+</resources>
